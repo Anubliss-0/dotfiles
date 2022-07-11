@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tom@anubliss.com
+	name = Thomas Rice
